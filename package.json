@@ -1,0 +1,14 @@
+{
+  "name": "hellodocker",
+  "version": "1.0.0",
+  "description": "simple http server with static html",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "crocodeev",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
