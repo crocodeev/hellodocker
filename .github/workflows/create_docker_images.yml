@@ -2,7 +2,7 @@ name: Create_Docker_Image
 
 on:
   push:
-    branches: [ 'master' ]
+    branches: [ 'main' ]
   workflow_dispatch:
 
 env:
